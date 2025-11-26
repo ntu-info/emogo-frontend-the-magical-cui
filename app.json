@@ -12,15 +12,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "7918e76f-59e9-45c4-aae4-c99cec64cfac"
+        "projectId": "94cd8b08-c2f3-4d15-b2b9-f6fb6f9f46be"
       }
     },
-    "owner": "spiketren",
-    "ios": {
-      "bundleIdentifier": "com.spiketren.exporoutermwe",
-      "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
-      }
-    }
+    "owner": "the_magical_cui"
   }
 }

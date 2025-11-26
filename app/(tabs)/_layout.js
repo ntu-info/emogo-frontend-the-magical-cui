@@ -7,13 +7,13 @@ export default function TabsLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: "Home",
+          title: "影像日記",
         }}
       />
       <Tabs.Screen
-        name="settings"
+        name="Settings"
         options={{
-          title: "Settings",
+          title: "設定與匯出",
         }}
       />
     </Tabs>

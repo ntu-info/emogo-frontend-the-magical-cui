@@ -10,11 +10,6 @@ export default function RootLayout() {
           name="(tabs)"
           options={{ headerShown: false }}
         />
-        {/* This screen is pushed on top of tabs when you navigate to /details */}
-        <Stack.Screen
-          name="details"
-          options={{ title: "Details" }}
-        />
       </Stack>
     </>
   );
