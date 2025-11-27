@@ -1,5 +1,9 @@
 # Expo Router Minimal Working Example
 
+To install the app, open this link:
+https://expo.dev/accounts/the_magical_cui/projects/expo-router-mwe/builds/ae57de65-4b68-4d3f-8747-6d9504caabb8
+
+
 This is a very small Expo project using **expo-router** with:
 
 - A root `Stack` layout
